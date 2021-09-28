@@ -1,8 +1,6 @@
 # External Css3 and JavaScript Template
 
-**Html File**
-
-`index.html`
+**HTML** &nbsp; `index.html`
 
 ```html
 <!DOCTYPE html>
