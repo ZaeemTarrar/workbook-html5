@@ -100,7 +100,7 @@ p {
 alert('JavaScript is Working .... ')
 ```
 
-**DOWNLOAD**
+## DOWNLOAD
 
 **Linux** `workbook-html5 semantics template/*`
 
