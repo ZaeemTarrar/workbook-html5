@@ -1,3 +1,6 @@
+# Inline Css3 and JavaScript Template
+
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -13,3 +16,4 @@
     </div>
   </body>
 </html>
+```
