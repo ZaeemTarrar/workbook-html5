@@ -29,40 +29,44 @@
                 <header>Main Section 1 - Article 1 - Heading</header>
                 <main>
                   <hgroup>
-                    <h1>Main Section 1 - Article 1 - Main - Hgroup</h1>
-                    <h2></h2>
+                    <h1>
+                      Main Section 1 - Article 1 - Main - Hgroup - Heading 1
+                    </h1>
+                    <h2>
+                      Main Section 1 - Article 1 - Main - Hgroup - Heading 2
+                    </h2>
                   </hgroup>
                 </main>
-                <footer></footer>
+                <footer>Main Section 1 - Article 1 - Footer</footer>
               </article>
               <article>
-                <header></header>
-                <main></main>
-                <footer></footer>
+                <header>Main Section 1 - Article 2 - Heading</header>
+                <main>Main Section 1 - Article 2 - Main</main>
+                <footer>Main Section 1 - Article 2 - Foter</footer>
               </article>
             </main>
-            <footer></footer>
+            <footer>Main Section 1 - Footer</footer>
           </section>
           <section>
-            <header></header>
+            <header>Main Section 2 - Heading</header>
             <main>
               <aside>
-                <header></header>
-                <main></main>
-                <footer></footer>
+                <header>Main Section 2 - Aside 1 - Heading</header>
+                <main>Main Section 2 - Aside 1 - Main</main>
+                <footer>Main Section 2 - Aside 1 - Footer</footer>
               </aside>
             </main>
-            <footer></footer>
+            <footer>Main Section 2 - Footer</footer>
           </section>
         </main>
-        <footer></footer>
+        <footer>Main Footer</footer>
       </main>
       <footer>
-        <header></header>
+        <header>Footer Heading</header>
         <main>
-          <address></address>
+          <address>Footer Main - Address</address>
         </main>
-        <footer></footer>
+        <footer>Footer Footer</footer>
       </footer>
     </div>
   </body>
