@@ -117,11 +117,5 @@ cd zaeem-html5 ;
 `Windows`
 
 ```cmd
-git clone https://github.com/ZaeemTarrar/workbook-html5.git &&
-rm -rf .git &&
-mkdir ../zaeem-html5 &&
-mv  -v "project templates/semantics template/*" "../zaeem-html5" &&
-cd ../ &&
-rm -rfv workbook-html5 &&
-cd zaeem-html5
+git clone https://github.com/ZaeemTarrar/workbook-html5.git && rm -rf .git && mkdir ../zaeem-html5 && mv  -v "project templates/semantics template/*" "../zaeem-html5" && cd ../ && rm -rfv workbook-html5 && cd zaeem-html5
 ```
