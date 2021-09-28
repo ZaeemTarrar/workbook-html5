@@ -105,17 +105,11 @@ alert('JavaScript is Working .... ')
 `Linux`
 
 ```cmd
-git clone https://github.com/ZaeemTarrar/workbook-html5.git ;
-rm -rf .git ;
-mkdir ../zaeem-html5 ;
-mv  -v "project templates/semantics template/*" "../zaeem-html5" ;
-cd ../ ;
-rm -rfv workbook-html5 ;
-cd zaeem-html5 ;
+git clone https://github.com/ZaeemTarrar/workbook-html5.git ; cd workbook-html5 ; rm -rf .git ; mkdir "../zaeem-html5" ; mv -v "project templates/semantics template/*" "../zaeem-html5" ; cd ../ ; rm -rf "workbook-html5" ; rename "zaeem-html5" "workbook-html5 semantics template" ; cd "workbook-html5 semantics template" ;
 ```
 
 `Windows`
 
 ```cmd
-git clone https://github.com/ZaeemTarrar/workbook-html5.git && cd workbook-html5 && del /Q .git && mkdir "../zaeem-html5" && move ".\project templates\semantics template\*" "..\zaeem-html5" && cd ../ && rmdir /s /q "workbook-html5" && rename "zaeem-html5" "workbook-html5" && cd "workbook-html5"
+git clone https://github.com/ZaeemTarrar/workbook-html5.git && cd workbook-html5 && del /Q .git && mkdir "../zaeem-html5" && move ".\project templates\semantics template\*" "..\zaeem-html5" && cd ../ && rmdir /s /q "workbook-html5" && rename "zaeem-html5" "workbook-html5 semantics template" && cd "workbook-html5 semantics template"
 ```
