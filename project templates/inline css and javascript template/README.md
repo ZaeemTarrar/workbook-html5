@@ -11,9 +11,11 @@
   </head>
   <body>
     <div id="wrapper">
+      <!-- Inline Css -->
       <h1 style="color: blue;background-color:red;padding:10px;margin:20px;">
         Inline Css3 and JavaScript Template
       </h1>
+      <!-- Inline JavaScript -->
       <button onclick="alert('JavaScript is Working')"></button>
     </div>
   </body>
