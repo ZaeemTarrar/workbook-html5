@@ -1,5 +1,7 @@
 # Html5 - Semantics Template
 
+**HTML** &nbsp; `index.html`
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -8,6 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Semantics</title>
+    <!-- External Css -->
+    <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <div id="wrapper">
@@ -69,6 +73,29 @@
         <footer>Footer Footer</footer>
       </footer>
     </div>
+
+    <!-- External JavaScript -->
+    <script src="./script.js"></script>
   </body>
 </html>
+```
+
+**CSS** &nbsp; `style.css`
+
+```css
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Comic Sans MS;
+}
+p {
+  background-color: green;
+  padding: 10px;
+}
+```
+
+**JAVASCRIPT** &nbsp; `script.js`
+
+```javascript
+alert('JavaScript is Working .... ')
 ```
