@@ -25,3 +25,23 @@
   </body>
 </html>
 ```
+
+**CSS** &nbsp; `style.css`
+
+```css
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Comic Sans MS;
+}
+p {
+  background-color: green;
+  padding: 10px;
+}
+```
+
+**JAVASCRIPT** &nbsp; `script.js`
+
+```javascript
+alert('JavaScript is Working .... ')
+```
