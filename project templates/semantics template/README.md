@@ -102,7 +102,13 @@ alert('JavaScript is Working .... ')
 
 ## DOWNLOAD
 
-**LINUX/MAC** `workbook-html5 semantics template/*`
+**LINUX** `workbook-html5 semantics template/*`
+
+```cmd
+git clone https://github.com/ZaeemTarrar/workbook-html5.git ; ; rm -rf workbook-html5/.git ; cp -r "workbook-html5/project templates/semantics template/" "./workbook-html5 semantics template" ; rm -rf "workbook-html5" ; cd "workbook-html5 semantics template" ;
+```
+
+**MAC** `workbook-html5 semantics template/*`
 
 ```cmd
 git clone https://github.com/ZaeemTarrar/workbook-html5.git ; ; rm -rf workbook-html5/.git ; cp -r "workbook-html5/project templates/semantics template/" "./workbook-html5 semantics template" ; rm -rf "workbook-html5" ; cd "workbook-html5 semantics template" ;
