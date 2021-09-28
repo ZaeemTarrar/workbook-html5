@@ -11,7 +11,9 @@
   </head>
   <body>
     <div id="wrapper">
-      <h1 style="color: blue;">Inline Css3 and JavaScript Template</h1>
+      <h1 style="color: blue;background-color:red;padding:10px;margin:20px;">
+        Inline Css3 and JavaScript Template
+      </h1>
       <button onclick="alert('JavaScript is Working')"></button>
     </div>
   </body>
