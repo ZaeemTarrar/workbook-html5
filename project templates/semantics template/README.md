@@ -105,7 +105,7 @@ alert('JavaScript is Working .... ')
 `Linux`
 
 ```cmd
-git clone https://github.com/ZaeemTarrar/workbook-html5.git ; cd workbook-html5 ; rm -rf .git ; mkdir "../zaeem-html5" ; mv -v "project templates/semantics template/*" "../zaeem-html5" ; cd ../ ; rm -rf "workbook-html5" ; rename "zaeem-html5" "workbook-html5 semantics template" ; cd "workbook-html5 semantics template" ;
+git clone https://github.com/ZaeemTarrar/workbook-html5.git ; ; rm -rf workbook-html5/.git ; mkdir zaeem-html5 ; cp -r "workbook-html5/project templates/semantics template/*" zaeem-html5 ; rm -rf "workbook-html5" ; rename "zaeem-html5" "workbook-html5 semantics template" ; cd "workbook-html5 semantics template" ;
 ```
 
 `Windows`
