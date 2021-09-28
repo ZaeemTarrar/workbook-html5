@@ -12,23 +12,24 @@
   <body>
     <div id="wrapper">
       <header>
-        <header></header>
+        <header>Heading Heading</header>
         <main>
-          <nav></nav>
+          <nav>Heading Main Navigation</nav>
         </main>
-        <footer></footer>
+        <footer>Heading Footer</footer>
       </header>
       <main>
-        <header></header>
+        <header>Main Heading</header>
         <main>
+          Main Main
           <section>
-            <header></header>
+            <header>Main Section 1 - Heading</header>
             <main>
               <article>
-                <header></header>
+                <header>Main Section 1 - Article 1 - Heading</header>
                 <main>
                   <hgroup>
-                    <h1></h1>
+                    <h1>Main Section 1 - Article 1 - Main - Hgroup</h1>
                     <h2></h2>
                   </hgroup>
                 </main>
