@@ -1,3 +1,8 @@
+# External Css3 and JavaScript Template
+
+**Html** `index.html`
+
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -19,3 +24,4 @@
     <script src="./script.js"></script>
   </body>
 </html>
+```

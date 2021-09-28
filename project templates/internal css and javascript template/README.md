@@ -22,7 +22,9 @@
     </style>
   </head>
   <body>
-    <div id="wrapper"></div>
+    <div id="wrapper">
+      <h1>Internal Css3 and JavaScript Template</h1>
+    </div>
 
     <!-- Internal JavaScript -->
     <script type="text/javascript">
